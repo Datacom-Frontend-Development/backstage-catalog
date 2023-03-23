@@ -1,0 +1,13 @@
+apiVersion: backstage.io/v1alpha1
+kind: Location
+metadata:
+  name: All catalog items
+  description: A collection of all Backstage example entities, except users, groups, and templates
+spec:
+  targets:
+    - ./all-components.yaml
+    - ./all-resources.yaml
+    #- ./all-apis.yaml
+    #- ./all-domains.yaml
+    #
+    #- ./all-systems.yaml

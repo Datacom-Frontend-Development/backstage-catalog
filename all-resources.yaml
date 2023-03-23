@@ -1,0 +1,8 @@
+apiVersion: backstage.io/v1alpha1
+kind: Location
+metadata:
+  name: reosources
+  description: A collection of all Backstage example resources
+spec:
+  targets:
+    - ./resources/general-pg.yaml
