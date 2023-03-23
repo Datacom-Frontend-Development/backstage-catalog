@@ -6,3 +6,4 @@ metadata:
 spec:
   type: database
   system: artist-engagement-portal
+  owner: sam.mackenzie@datacom.co.nz
