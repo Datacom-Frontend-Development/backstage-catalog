@@ -7,9 +7,9 @@ metadata:
     #github.com/project-slug: backstage/backstage
     #backstage.io/techdocs-ref: dir:.
     backstage.io/view-url: https://backstage.frontend-dev.team/catalog
-    backstage.io/edit-url: https://dev.azure.com/Microsoft-Build-Team-Projects/_git/BackstageIO?path=/catalog-info.yaml
-    backstage.io/source-location: url:https://dev.azure.com/Microsoft-Build-Team-Projects/_git/BackstageIO/
-    dev.azure.com/project-repo: BackstageIO/BackstageIO
+    backstage.io/edit-url: https://github.com/Datacom-Frontend-Development/backstage-catalog/blob/master/components/backstage.yaml
+    backstage.io/source-location: url:https://github.com/Datacom-Frontend-Development/fe-backstage
+    github.com/project-slug: Datacom-Frontend-Development/fe-backstage
 spec:
   type: website
   owner: sam.mackenzie@datacom.co.nz
