@@ -6,7 +6,7 @@ metadata:
   annotations:
     #github.com/project-slug: backstage/backstage
     #backstage.io/techdocs-ref: dir:.
-    backstage.io/view-url: https://b.lambda.fyi/catalog
+    backstage.io/view-url: https://backstage.frontend-dev.team/catalog
     backstage.io/edit-url: https://dev.azure.com/Microsoft-Build-Team-Projects/_git/BackstageIO?path=/catalog-info.yaml
     backstage.io/source-location: url:https://dev.azure.com/Microsoft-Build-Team-Projects/_git/BackstageIO/
     dev.azure.com/project-repo: BackstageIO/BackstageIO
