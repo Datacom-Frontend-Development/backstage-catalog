@@ -14,4 +14,4 @@ spec:
   type: website
   owner: sam.mackenzie@datacom.co.nz
   lifecycle: experimental
-  dependsOn: ['resource:artists-db']
+  dependsOn: ['resource:general-db']
