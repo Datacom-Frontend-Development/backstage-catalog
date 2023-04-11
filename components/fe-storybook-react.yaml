@@ -1,0 +1,16 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: storybook-react
+  description: Datacom Frontend Development team backstage instance
+  annotations:
+    #github.com/project-slug: backstage/backstage
+    #backstage.io/techdocs-ref: dir:.
+    backstage.io/view-url: https://storybook.frontend-dev.team/catalog
+    backstage.io/edit-url: https://github.com/Datacom-Frontend-Development/backstage-catalog/blob/master/components/fe-storybook-react.yaml
+    backstage.io/source-location: url:https://github.com/Datacom-Frontend-Development/fe-storybook-react
+    github.com/project-slug: Datacom-Frontend-Development/fe-storybook-react
+spec:
+  type: website
+  owner: sam.mackenzie@datacom.co.nz
+  lifecycle: experimental
